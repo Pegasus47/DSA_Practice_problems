@@ -17,7 +17,7 @@ public:
 
         for(int i=0; i < matrix.size();i++){
             for(int j=0; j<matrix[i].size();j++){
-                if(matrix[i][j]==-23083)
+                if(matrix[i][j]==-23083) //this is just assuming this test case is never run
                     matrix[i][j]=0;
             }
         }
@@ -26,7 +26,7 @@ public:
         for(int i=0; i<matrix.size(); i++){
             for(int j=0; j<matrix[i].size();j++){
                 if(i==n && matrix[i][j]!=0){
-                    matrix[i][j]=-23083;
+                    matrix[i][j]=-23083; //bad solution as i couldnt use anything other than INT
                 }
                 if(j==m && matrix[i][j]!=0){
                     matrix[i][j]=-23083;

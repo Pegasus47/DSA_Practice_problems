@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(DSA_striver_sheet
         notQuitePalindrome.h
-        Arrays_1/SetMatrixZeros.cpp
+        Arrays_1/SetMatrixZeros_1.cpp
 )
