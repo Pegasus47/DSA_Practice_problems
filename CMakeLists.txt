@@ -5,8 +5,9 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_executable(DSA_striver_sheet
         notQuitePalindrome.h
-        Arrays_1/SetMatrixZeros_1.cpp
-        Arrays_1/SetMatrixZeros_2.cpp
+        Arrays_1/SetMatrixZero/SetMatrixZeros_1.cpp
+        Arrays_1/SetMatrixZero/SetMatrixZeros_2.cpp
         cmake-build-debug/SetMatrixZeros_3.cpp
         cmake-build-debug/SetMatrixZeros_3.h
+        Arrays_1/PascalsTriangle/PascalsTriangle_1.cpp
 )
