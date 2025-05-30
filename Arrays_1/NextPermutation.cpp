@@ -5,6 +5,8 @@ using namespace std;
 
 class Solution {
 public:
+    // a simpler solution is through an STL lib function
+    // just call next_permutation(nums.begin(),nums.end());
     void nextPermutation(vector<int>& nums) {
         int bp=-1;
         for(int i=nums.size()-1;i > 0;--i){ //check notes for more detailed solutions
