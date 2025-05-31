@@ -11,4 +11,6 @@ add_executable(DSA_striver_sheet
         cmake-build-debug/SetMatrixZeros_3.h
         Arrays_1/PascalsTriangle/PascalsTriangle_1.cpp
         Arrays_1/NextPermutation.cpp
+        Arrays_1/MaxSubArray/MaxSubArray_2.cpp
+        Arrays_1/MaxSubArray/MaxSubArray_1.cpp
 )
