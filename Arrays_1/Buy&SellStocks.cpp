@@ -6,16 +6,30 @@
 #include <vector>
 using namespace std; 
 
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int buy=INT_MAX;
+//         int max_diff=0;
+//         for(int i=0;i<prices.size();i++){
+//             if(buy>prices[i]){
+//                 buy=min(buy,prices[i]);
+//                 continue;
+//             } //this will make sure that the minimum is always before the max
+//             max_diff=max(max_diff,prices[i]-buy);
+//         }
+//         return max_diff;
+//     }
+// };
+
+//this is a better solution without an explicit if and continue block
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int buy=INT_MAX;
         int max_diff=0;
         for(int i=0;i<prices.size();i++){
-            if(buy>prices[i]){
-                buy=min(buy,prices[i]);
-                continue;
-            } //this will make sure that the minimum is always before the max
+            buy=min(buy,prices[i]);
             max_diff=max(max_diff,prices[i]-buy);
         }
         return max_diff;
