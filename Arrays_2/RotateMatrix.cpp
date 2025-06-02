@@ -2,6 +2,11 @@
 #include <vector>
 using namespace std;
 
+//The brute force solution to this problem could be taking the first row and replacing is at the last
+//column in another n*n matrix
+//TC would be O(n²) but the SC would also be O(n²)
+
+//This solution ha TC as O(n²) but SC as O(1) as it is in place.
 class Solution {
 public:
     void rotate(vector<vector<int>>& matrix) {
