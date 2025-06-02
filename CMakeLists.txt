@@ -15,4 +15,5 @@ add_executable(DSA_striver_sheet
         Arrays_1/MaxSubArray/MaxSubArray_1.cpp
         Arrays_1/SortColours/SortColours_1.cpp
         Arrays_1/SortColours/SortColours_2.cpp
+        Arrays_2/RotateMatrix.cpp
 )
