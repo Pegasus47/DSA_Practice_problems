@@ -13,4 +13,5 @@ add_executable(DSA_striver_sheet
         Arrays_1/NextPermutation.cpp
         Arrays_1/MaxSubArray/MaxSubArray_2.cpp
         Arrays_1/MaxSubArray/MaxSubArray_1.cpp
+        Arrays_1/SetMatrixZero/SortColours.cpp
 )
