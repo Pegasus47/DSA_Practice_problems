@@ -19,4 +19,5 @@ add_executable(DSA_striver_sheet
         Arrays_2/MajorityElement.cpp
         Arrays_2/MergeIntervals.cpp
         Arrays_2/MergeSortedArray.cpp
+        Arrays_2/FindDuplicate.cpp
 )
