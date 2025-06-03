@@ -18,4 +18,5 @@ add_executable(DSA_striver_sheet
         Arrays_2/RotateMatrix.cpp
         Arrays_2/MajorityElement.cpp
         Arrays_2/MergeIntervals.cpp
+        Arrays_2/MergeSortedArray.cpp
 )
