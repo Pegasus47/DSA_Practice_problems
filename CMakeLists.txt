@@ -21,4 +21,8 @@ add_executable(DSA_striver_sheet
         Arrays_2/MergeSortedArray.cpp
         Arrays_2/FindDuplicate.cpp
         Arrays_2/MissingRepeatedValues.cpp
+        Arrays_3/Binary2D/BinarySearch.cpp
+        Arrays_3/Binary2D/Search2DMatrix.cpp
+        OOP.cpp
+        "Arrays_3/Binary2D/Flattening2DMatrix.cpp"
 )
