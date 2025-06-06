@@ -25,4 +25,8 @@ add_executable(DSA_striver_sheet
         Arrays_3/Binary2D/Search2DMatrix.cpp
         OOP.cpp
         "Arrays_3/Binary2D/Flattening2DMatrix.cpp"
+        Arrays_3/Binary2D/PowFunction.cpp
+        Arrays_3/Binary2D/MajorityElementn3.cpp
+        "Arrays_3/Binary2D/UniquePaths.cpp"
+        "Arrays_3/Binary2D/MergeSort(ReverseCount)/MergeSort.cpp"
 )
