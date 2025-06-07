@@ -30,4 +30,5 @@ add_executable(DSA_striver_sheet
         "Arrays_3/UniquePaths.cpp"
         "Arrays_3/MergeSort(ReverseCount)/MergeSort.cpp"
         "Arrays_3/MergeSort(ReverseCount)/ReverseCount.cpp"
+        Arrays_4/2_sum.cpp
 )
