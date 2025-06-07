@@ -22,12 +22,12 @@ add_executable(DSA_striver_sheet
         Arrays_2/FindDuplicate.cpp
         Arrays_2/MissingRepeatedValues.cpp
         Arrays_3/Binary2D/BinarySearch.cpp
-        Arrays_3/Binary2D/Search2DMatrix.cpp
+        Arrays_3/Search2DMatrix.cpp
         OOP.cpp
         "Arrays_3/Binary2D/Flattening2DMatrix.cpp"
-        Arrays_3/Binary2D/PowFunction.cpp
-        Arrays_3/Binary2D/MajorityElementn3.cpp
-        "Arrays_3/Binary2D/UniquePaths.cpp"
-        "Arrays_3/Binary2D/MergeSort(ReverseCount)/MergeSort.cpp"
-        "Arrays_3/Binary2D/MergeSort(ReverseCount)/ReverseCount.cpp"
+        Arrays_3/PowFunction.cpp
+        Arrays_3/MajorityElementn3.cpp
+        "Arrays_3/UniquePaths.cpp"
+        "Arrays_3/MergeSort(ReverseCount)/MergeSort.cpp"
+        "Arrays_3/MergeSort(ReverseCount)/ReverseCount.cpp"
 )
