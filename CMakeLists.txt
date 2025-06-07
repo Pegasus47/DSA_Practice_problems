@@ -29,4 +29,5 @@ add_executable(DSA_striver_sheet
         Arrays_3/Binary2D/MajorityElementn3.cpp
         "Arrays_3/Binary2D/UniquePaths.cpp"
         "Arrays_3/Binary2D/MergeSort(ReverseCount)/MergeSort.cpp"
+        "Arrays_3/Binary2D/MergeSort(ReverseCount)/ReverseCount.cpp"
 )
