@@ -33,4 +33,6 @@ add_executable(DSA_striver_sheet
         Arrays_4/2_sum.cpp
         "CF1029(Div 3)/1029A.cpp"
         "CF1029(Div 3)/1029B.cpp"
+        Arrays_4/3sum.cpp
+        Arrays_4/4sum.cpp
 )
