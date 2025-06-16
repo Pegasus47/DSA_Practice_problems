@@ -35,4 +35,5 @@ add_executable(DSA_striver_sheet
         "CF1029(Div 3)/1029B.cpp"
         Arrays_4/3sum.cpp
         Arrays_4/4sum.cpp
+        Arrays_4/LongestConsecutiveSequence.cpp
 )
