@@ -36,4 +36,6 @@ add_executable(DSA_striver_sheet
         Arrays_4/3sum.cpp
         Arrays_4/4sum.cpp
         Arrays_4/LongestConsecutiveSequence.cpp
+        Arrays_4/SubArraySum/SubArraySum_brute.cpp
+        Arrays_4/SubArraySum/SubArraySum_optimal.cpp
 )
