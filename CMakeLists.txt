@@ -31,11 +31,13 @@ add_executable(DSA_striver_sheet
         "Arrays_3/MergeSort(ReverseCount)/MergeSort.cpp"
         "Arrays_3/MergeSort(ReverseCount)/ReverseCount.cpp"
         Arrays_4/2_sum.cpp
-        "CF1029(Div 3)/1029A.cpp"
-        "CF1029(Div 3)/1029B.cpp"
+        "LinkedList1/CodeForce Contests/CF1029(Div 3)/1029A.cpp"
+        "LinkedList1/CodeForce Contests/CF1029(Div 3)/1029B.cpp"
         Arrays_4/3sum.cpp
         Arrays_4/4sum.cpp
         Arrays_4/LongestConsecutiveSequence.cpp
         Arrays_4/SubArraySum/SubArraySum_brute.cpp
         Arrays_4/SubArraySum/SubArraySum_optimal.cpp
+        Arrays_4/LongestSSwoRepeats.cpp
+        LinkedList1/ReverseLL.cpp
 )

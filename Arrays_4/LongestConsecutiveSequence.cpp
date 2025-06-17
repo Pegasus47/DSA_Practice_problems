@@ -8,7 +8,7 @@ public:
     int longestConsecutive(vector<int>& nums) {
         if(nums.empty()) return 0;
         int len=1;
-        unordered_set <int> us;
+        unordered_set <int> us; //sets can only contain 1 of each element
         for(int i=0;i<nums.size();i++){
             us.insert(nums[i]);
         }
