@@ -48,4 +48,10 @@ add_executable(DSA_striver_sheet
         LinkedList1/DeleteKthFromEnd.cpp
         LinkedList1/AddNumbersLL.cpp
         LinkedList1/DeleteNodeLL.cpp
+        LinkedList2/IntersectionOfLL/IntersectionOfLL.cpp
+        LinkedList2/IntersectionOfLL/Intersection_optimal.cpp
+        LinkedList2/LinkedListCycle.cpp
+        LinkedList2/PalindromeLL.cpp
+        LinkedList2/DetectLoopLL.cpp
+        LinkedList2/ReverseNodesinKthGroup.cpp
 )

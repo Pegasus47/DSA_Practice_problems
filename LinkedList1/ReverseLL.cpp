@@ -62,3 +62,24 @@ int main() {
 
     return 0;
 }
+
+// int size=0,dup=k;
+// while(temp!=nullptr){
+//     temp=temp->next;
+//     size++;
+// }
+// cout<<size<<endl;
+// size/=k;
+// for(int i=0;i<size;i++){
+//     k=dup;
+//     temp=prev->next;
+//     while(k>0){
+//         ListNode* old=prev;
+//         prev=temp;
+//         temp=temp->next;
+//         prev->next=old;
+//         k--;
+//     }
+//     cout << head->val << " " << temp->val;
+//     head->next=temp;
+// }
