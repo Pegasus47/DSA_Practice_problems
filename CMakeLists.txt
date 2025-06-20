@@ -54,4 +54,5 @@ add_executable(DSA_striver_sheet
         LinkedList2/PalindromeLL.cpp
         LinkedList2/DetectLoopLL.cpp
         LinkedList2/ReverseNodesinKthGroup.cpp
+        LinkedList2/FlattenLL.cpp
 )
