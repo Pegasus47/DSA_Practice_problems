@@ -55,4 +55,9 @@ add_executable(DSA_striver_sheet
         LinkedList2/DetectLoopLL.cpp
         LinkedList2/ReverseNodesinKthGroup.cpp
         LinkedList2/FlattenLL.cpp
+        "Linked Lists + Arrays/RemoveDuplicatesFromSorted.cpp"
+        "Linked Lists + Arrays/RotateLinkedList.cpp"
+        "Linked Lists + Arrays/MaxConsecutiveOnes.cpp"
+        "Linked Lists + Arrays/Rainwater Trapping/RainwaterTrapping_Brute.cpp"
+        "Linked Lists + Arrays/Rainwater Trapping/RainwaterTrapping_Optimal.cpp"
 )
