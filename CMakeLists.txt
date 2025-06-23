@@ -60,4 +60,6 @@ add_executable(DSA_striver_sheet
         "Linked Lists + Arrays/MaxConsecutiveOnes.cpp"
         "Linked Lists + Arrays/Rainwater Trapping/RainwaterTrapping_Brute.cpp"
         "Linked Lists + Arrays/Rainwater Trapping/RainwaterTrapping_Optimal.cpp"
+        SlidingWindow+2pointer/MaxNumberOf1s,3.cpp
+        SlidingWindow+2pointer/FruitsInaBasket.cpp
 )
