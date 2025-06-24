@@ -62,4 +62,7 @@ add_executable(DSA_striver_sheet
         "Linked Lists + Arrays/Rainwater Trapping/RainwaterTrapping_Optimal.cpp"
         SlidingWindow+2pointer/MaxNumberOf1s,3.cpp
         SlidingWindow+2pointer/FruitsInaBasket.cpp
+        "SlidingWindow+2pointer/LongestCharacterReplacement/LongestCharReplacement_brute.cpp"
+        "SlidingWindow+2pointer/LongestCharacterReplacement/LongestCharReplacement_optimal.cpp"
+        SlidingWindow+2pointer/BinarySubArrayswSum.cpp
 )
