@@ -65,4 +65,6 @@ add_executable(DSA_striver_sheet
         "SlidingWindow+2pointer/LongestCharacterReplacement/LongestCharReplacement_brute.cpp"
         "SlidingWindow+2pointer/LongestCharacterReplacement/LongestCharReplacement_optimal.cpp"
         SlidingWindow+2pointer/BinarySubArrayswSum.cpp
+        SlidingWindow+2pointer/NiceSubarrays.cpp
+        SlidingWindow+2pointer/containsABC.cpp
 )
