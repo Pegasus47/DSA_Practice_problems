@@ -10,6 +10,7 @@ using namespace std;
 
 //NOTE: Revise this
 
+//Whenever you arent sure about how to proceed with left or right, remember this approach
 class Solution {
 public:
     int lessOrEqualSubArray(vector<int>& nums,int goal){ //this solves <=
@@ -24,6 +25,8 @@ public:
             }
             cntr+=(r-l+1); //this calculates all the subarrays of that element
             //till l, coz all of them are technically possible
+            //ALWAYS LET THE checking be after moving the second pointer so that the r=nums.size() case
+            //is considered
             r++;
         }
         return cntr;
