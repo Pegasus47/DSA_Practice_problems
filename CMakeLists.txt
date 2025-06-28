@@ -68,4 +68,8 @@ add_executable(DSA_striver_sheet
         SlidingWindow+2pointer/NiceSubarrays.cpp
         SlidingWindow+2pointer/containsABC.cpp
         SlidingWindow+2pointer/FrontAndBackCards.cpp
+        SlidingWindow+2pointer/KdifferentIntegers.cpp
+        "Binary Search/upper&lowerbound.cpp"
+        "Binary Search/SearchInRotatedSortedArray.cpp"
+        "Binary Search/RotatedSortedArrayDuplicates.cpp"
 )
