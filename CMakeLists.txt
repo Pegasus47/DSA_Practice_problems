@@ -72,4 +72,7 @@ add_executable(DSA_striver_sheet
         "Binary Search/upper&lowerbound.cpp"
         "Binary Search/SearchInRotatedSortedArray.cpp"
         "Binary Search/RotatedSortedArrayDuplicates.cpp"
+        "Binary Search/FindNonDuplicate(sorted).cpp"
+        "Binary Search/findSQRT.cpp"
+        "Binary Search/KokoEatingBanana.cpp"
 )

@@ -11,6 +11,12 @@ using namespace std;
 //BRUTE is obv- take all subarrays and make sure there are less than 2 different elements within them
 //implement brute with a set and not variables
 
+// for (auto& [key, value] : um) {
+//     total += (value - 1);
+// }
+
+//ABOVE is a valid way to iterate over an unordered map
+
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
