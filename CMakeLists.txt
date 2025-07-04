@@ -75,4 +75,8 @@ add_executable(DSA_striver_sheet
         "Binary Search/FindNonDuplicate(sorted).cpp"
         "Binary Search/findSQRT.cpp"
         "Binary Search/KokoEatingBanana.cpp"
+        "Binary Search/ShippinginDdays.cpp"
+        "CodeForce Contests/A.cpp"
+        "CodeForce Contests/B.cpp"
+        "CodeForce Contests/c.cpp"
 )
