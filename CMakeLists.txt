@@ -79,4 +79,5 @@ add_executable(DSA_striver_sheet
         "CodeForce Contests/A.cpp"
         "CodeForce Contests/B.cpp"
         "CodeForce Contests/c.cpp"
+        "Binary Search/BookAllocation,Painter(IMP).cpp"
 )
