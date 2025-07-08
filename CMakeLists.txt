@@ -80,4 +80,9 @@ add_executable(DSA_striver_sheet
         "CodeForce Contests/B.cpp"
         "CodeForce Contests/c.cpp"
         "Binary Search/BookAllocation,Painter(IMP).cpp"
+        String/RemoveOuterBrackets.cpp
+        Recurrsion/CountGoodArrays.cpp
+        Recurrsion/AllBinarySubstrings.cpp
+        Recurrsion/CombinationSumII.cpp
+        Recurrsion/CombinationSumI.cpp
 )
