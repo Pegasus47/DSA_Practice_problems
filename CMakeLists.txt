@@ -85,4 +85,7 @@ add_executable(DSA_striver_sheet
         Recurrsion/AllBinarySubstrings.cpp
         Recurrsion/CombinationSumII.cpp
         Recurrsion/CombinationSumI.cpp
+        Recurrsion/SubsetsII.cpp
+        Recurrsion/CombinationSumIII.cpp
+        "Recurrsion/PalindromeSubstr(VIMP).cpp"
 )
