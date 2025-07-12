@@ -88,4 +88,6 @@ add_executable(DSA_striver_sheet
         Recurrsion/SubsetsII.cpp
         Recurrsion/CombinationSumIII.cpp
         "Recurrsion/PalindromeSubstr(VIMP).cpp"
+        Recurrsion/Permutations.cpp
+        Recurrsion/SudokuSolver.cpp
 )
