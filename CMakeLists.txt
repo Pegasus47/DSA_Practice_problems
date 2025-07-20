@@ -90,4 +90,6 @@ add_executable(DSA_striver_sheet
         "Recurrsion/PalindromeSubstr(VIMP).cpp"
         Recurrsion/Permutations.cpp
         Recurrsion/SudokuSolver.cpp
+        "Stack&Queue/SumOfMinimums(vimp).cpp"
+        Stack&Queue/SumOfRanges.cpp
 )
