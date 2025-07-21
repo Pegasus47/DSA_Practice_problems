@@ -92,4 +92,6 @@ add_executable(DSA_striver_sheet
         Recurrsion/SudokuSolver.cpp
         "Stack&Queue/SumOfMinimums(vimp).cpp"
         Stack&Queue/SumOfRanges.cpp
+        Stack&Queue/LargestRectangeInHistogram.cpp
+        String/ReverseWords.cpp
 )
