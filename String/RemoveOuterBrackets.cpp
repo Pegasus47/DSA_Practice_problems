@@ -6,7 +6,7 @@ public:
     string removeOuterParentheses(string s) {
         int cnt=0;
         string str;
-        //when to update count and when to check for conditions is importan
+        //when to update count and when to check for conditions is important
         for(char c : s){
             if(c=='('){
                 if(cnt>0) //if count is 0 means its a starting bracket

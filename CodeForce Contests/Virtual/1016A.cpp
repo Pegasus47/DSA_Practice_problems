@@ -1,15 +1,16 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
 int main() {
     int no;
     cin >> no;
+    int temp;
     for (int i=0;i<no;i++) {
-        int n;
-        cin >> n;
-        if (n%4==0)
-            cout << "Bob"<<endl;
+        cin >> temp;
+        if (temp%2==0)
+            cout << "NO" << endl;
         else
-            cout << "Alice"<<endl;
+            cout << "YES" << endl;
     }
 }

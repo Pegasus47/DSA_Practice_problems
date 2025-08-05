@@ -76,9 +76,6 @@ add_executable(DSA_striver_sheet
         "Binary Search/findSQRT.cpp"
         "Binary Search/KokoEatingBanana.cpp"
         "Binary Search/ShippinginDdays.cpp"
-        "CodeForce Contests/A.cpp"
-        "CodeForce Contests/B.cpp"
-        "CodeForce Contests/c.cpp"
         "Binary Search/BookAllocation,Painter(IMP).cpp"
         String/RemoveOuterBrackets.cpp
         Recurrsion/CountGoodArrays.cpp
@@ -94,4 +91,10 @@ add_executable(DSA_striver_sheet
         Stack&Queue/SumOfRanges.cpp
         Stack&Queue/LargestRectangeInHistogram.cpp
         String/ReverseWords.cpp
+        String/OneisRotationOfOther.cpp
+        String/SortByFrequency.cpp
+        "CodeForce Contests/Virtual/1016A.cpp"
+        "Dynamic Programming/1-d/HouseRobbers2.cpp"
+        Heaps/TopKFreq.cpp
+        "Dynamic Programming/2-d/UniquePathsII.cpp"
 )
