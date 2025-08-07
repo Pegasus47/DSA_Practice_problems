@@ -97,4 +97,6 @@ add_executable(DSA_striver_sheet
         "Dynamic Programming/1-d/HouseRobbers2.cpp"
         Heaps/TopKFreq.cpp
         "Dynamic Programming/2-d/UniquePathsII.cpp"
+        "Dynamic Programming/2-d/MinimumPathSum.cpp"
+        "Dynamic Programming/2-d/MinimumFallingSum.cpp"
 )
