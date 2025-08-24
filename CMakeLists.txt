@@ -99,4 +99,10 @@ add_executable(DSA_striver_sheet
         "Dynamic Programming/2-d/UniquePathsII.cpp"
         "Dynamic Programming/2-d/MinimumPathSum.cpp"
         "Dynamic Programming/2-d/MinimumFallingSum.cpp"
+        "Dynamic Programming/subsequences/CoinChange .cpp"
+        Graphs/bfs.cpp
+        Graphs/dfs.cpp
+        "Graphs/countDisconnectedGraphs .cpp"
+        Graphs/FindCycleDFS.cpp
+        "Graphs/SurroundedRegions(dfs).cpp"
 )
