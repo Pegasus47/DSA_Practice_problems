@@ -105,4 +105,7 @@ add_executable(DSA_striver_sheet
         "Graphs/countDisconnectedGraphs .cpp"
         Graphs/FindCycleDFS.cpp
         "Graphs/SurroundedRegions(dfs).cpp"
+        "CodeForce Contests/div3 1047/1047A.cpp"
+        "CodeForce Contests/div3 1047/1047B.cpp"
+        "CodeForce Contests/div3 1047/1047C.cpp"
 )
